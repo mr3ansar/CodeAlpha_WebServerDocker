@@ -1,0 +1,8 @@
+version: '3'
+services:
+  webserver:
+    build: .
+    container_name: codealpha_webserver
+    ports:
+      - "8080:80"
+    restart: always
