@@ -156,8 +156,8 @@ CMD ["nginx", "-g", "daemon off;"]
 ## 👤 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [your-linkedin](https://linkedin.com/in/your-linkedin)
+- GitHub: [@mr3ansar](https://github.com/mr3ansar)
+- LinkedIn: [Abdul Samad Ansar]([https://linkedin.com/in/your-linkedin)](https://www.linkedin.com/in/abdul-samad-ansar-970278305/)
 
 ---
 
@@ -167,9 +167,3 @@ This project was completed as part of the **CodeAlpha DevOps Internship Program*
 
 - 🌐 Website: [www.codealpha.tech](https://www.codealpha.tech)
 - 📧 Email: services@codealpha.tech
-
----
-
-## 📜 License
-
-This project is open source and available under the [MIT License](LICENSE).
